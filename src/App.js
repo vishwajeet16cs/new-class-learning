@@ -7,6 +7,7 @@ import {DataProvider} from './components/Context'
 
 class App extends React.Component{
   render(){
+	  a=10;
     return(
       
       <DataProvider>
