@@ -8,6 +8,7 @@ import {DataProvider} from './components/Context'
 class App extends React.Component{
   render(){
     return(
+      <h1>hello check</h1><h1>hello check</h1>
       <DataProvider>
         <div className="app">
           <Router>
